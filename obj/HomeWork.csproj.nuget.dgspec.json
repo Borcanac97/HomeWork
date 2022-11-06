@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ndjokic\\Desktop\\HomeWork\\HomeWork\\HomeWork.csproj": {}
+    "C:\\Users\\ndjokic\\Desktop\\GIT\\HomeWork\\HomeWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ndjokic\\Desktop\\HomeWork\\HomeWork\\HomeWork.csproj": {
+    "C:\\Users\\ndjokic\\Desktop\\GIT\\HomeWork\\HomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ndjokic\\Desktop\\HomeWork\\HomeWork\\HomeWork.csproj",
+        "projectUniqueName": "C:\\Users\\ndjokic\\Desktop\\GIT\\HomeWork\\HomeWork.csproj",
         "projectName": "HomeWork",
-        "projectPath": "C:\\Users\\ndjokic\\Desktop\\HomeWork\\HomeWork\\HomeWork.csproj",
+        "projectPath": "C:\\Users\\ndjokic\\Desktop\\GIT\\HomeWork\\HomeWork.csproj",
         "packagesPath": "C:\\Users\\ndjokic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ndjokic\\Desktop\\HomeWork\\HomeWork\\obj\\",
+        "outputPath": "C:\\Users\\ndjokic\\Desktop\\GIT\\HomeWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
